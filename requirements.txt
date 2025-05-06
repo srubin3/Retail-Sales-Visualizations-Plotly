@@ -16,7 +16,7 @@ Retail-Sales-Visualizations-Plotly/
 │   ├── time_sales.png
 │   ├── daily_trends_line.html
 │   ├── daily_trends_line.png
-├── sales_analysis_plotly.ipynb
+├── Sales_Analysis_Plotly.ipynb
 ├── README.md
 ├── requirements.txt
 └── .gitignore
