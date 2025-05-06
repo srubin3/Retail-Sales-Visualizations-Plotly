@@ -1,0 +1,22 @@
+Retail-Sales-Visualizations-Plotly/
+├── visualizations/
+│   ├── daily_trends.html
+│   ├── daily_trends.png
+│   ├── monthly_units_boxplot.html
+│   ├── monthly_units_boxplot.png
+│   ├── monthly_sales_boxplot.html
+│   ├── monthly_sales_boxplot.png
+│   ├── monthly_trends.html
+│   ├── monthly_trends.png
+│   ├── state_sales.html
+│   ├── state_sales.png
+│   ├── group_sales.html
+│   ├── group_sales.png
+│   ├── time_sales.html
+│   ├── time_sales.png
+│   ├── daily_trends_line.html
+│   ├── daily_trends_line.png
+├── sales_analysis_plotly.ipynb
+├── README.md
+├── requirements.txt
+└── .gitignore
